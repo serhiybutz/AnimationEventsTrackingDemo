@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "animationutils",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/serhiybutz/AnimationUtils",
+      "state" : {
+        "revision" : "2eedc43e0af5a222e4a753500f736baac3276b4d",
+        "version" : "0.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
